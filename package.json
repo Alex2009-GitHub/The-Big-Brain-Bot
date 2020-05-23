@@ -1,0 +1,22 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "the bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex_The_Gamer#6472",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "\u0016"
+  },
+  "keywords": [
+    "bot"
+  ]
+}

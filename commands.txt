@@ -1,0 +1,20 @@
+Commands:
+
+Say - makes bot say something
+Purge - deletes messages from 2 to 100
+Kick, ban - kicks/bans user
+Help or cmds or commands - this
+Report - reports user to admins
+Tempmute - Mutes user temporally 
+Examples of usage:
++say [your message here]
++purge [number from 2 to 100]
++kick [User mention, example: @Bad_Guy#3999] [Reason] (wont kick without reason provided)
++ban [User mention, example: @Bad_Guy#3999] [Reason] (wont ban without reason provided)
++ping
++help
++cmds
++commands
++tempmute [User mention, example: @Bad_Guy#3999] [Time]
++report [User mention, example: @Bad_Guy#3999] [Reason] (wont report without a reason provided)
+Current prefix: +
